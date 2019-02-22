@@ -1,1 +1,5 @@
 # CONTENT
+
+File|Dscription
+---|---
+CMD进入当前目录.bat|windows批量工具：打开cmd并直接定位到当前目录。<\n>键入 `python3 filename.py` 即可运行
